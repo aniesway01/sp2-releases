@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://raw.githubusercontent.com/aniesway01/sp2-releases/main/SP2-latest.apk",
+  "sizeBytes": 3847477,
+  "sha256": "06c75f8e123be01b3a7f35bcc1bd23d8f50a89f9438aaf34c67391167a7376a9",
+  "notes": "SP2 1.2：新增自動更新、原生推文對話框、發文與刪文、導航加速"
+}
