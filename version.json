@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://raw.githubusercontent.com/aniesway01/sp2-releases/main/SP2-latest.apk",
-  "sizeBytes": 3847397,
-  "sha256": "9e8e7ee3dc13cd3380ba2df708d95669aee56a30b78499dff4543ce3be6a99d8",
-  "notes": "1.5：自動更新、原生推文、發文與刪文、導航加速（1.98s→1.15s）"
+  "sizeBytes": 3872038,
+  "sha256": "5b8cdd1c93909e9a5042db19f3d4887351ab86482e594feb8f5d92bf64dd871c",
+  "notes": "下拉刷新、回列表自動刷新、樂觀載入、文章頁快速選單、上次閱讀位置恢復、終端編輯器辨識與 Ctrl+X 存檔。"
 }
